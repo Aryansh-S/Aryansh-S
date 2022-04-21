@@ -6,3 +6,4 @@
 * [LinkedIn](https://www.linkedin.com/in/aryansh-s/)
 * [GitBook](https://aryansh.gitbook.io/)
 * [The Art of Modular Arithmetic](https://www.amazon.com/Art-Modular-Arithmetic-Aryansh-Shrivastava-ebook/dp/B09DF7MTWB) (available for free [here](https://aryansh-s.github.io/The_Art_of_Modular_Arithmetic.pdf))
+* [Unofficial USACO Syllabus](https://www.overleaf.com/read/fktckfprxyxn) (actively maintained based on problem trends)
