@@ -11,5 +11,7 @@
 
 ### Authored USACO Problems
 In reverse chronological order, here is the list of released problems:
+* [Air Cownditioning II, Bronze, January 2022](http://usaco.org/index.php?page=viewproblem2&cpid=1276): subset generation via recursion/bitmasking and array min/max updates
+* [Moo Operations, Bronze, January 2022](http://usaco.org/index.php?page=viewproblem2&cpid=1277): reverse engineering minimum solution with string processing
 * [Barn Tree, Silver, December 2022](http://usaco.org/index.php?page=viewproblem2&cpid=1254): constructive tree depth-first search with memoization, serving as a bridge to tree dynamic programming in higher divisions
 * [Photoshoot, Bronze, US Open 2022](http://usaco.org/index.php?page=viewproblem2&cpid=1227): challenging ad hoc minimization with greedy string processing
