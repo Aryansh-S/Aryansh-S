@@ -9,7 +9,7 @@
 * [Unofficial USACO Syllabus](https://www.overleaf.com/read/fktckfprxyxn) (actively maintained based on problem trends)
 * [The Art of Modular Arithmetic](https://www.amazon.com/Art-Modular-Arithmetic-Aryansh-Shrivastava-ebook/dp/B09DF7MTWB) (available for free [here](https://aryansh-s.github.io/The_Art_of_Modular_Arithmetic.pdf))
 
-### Authored USACO Problems
+### Authoring USACO Problems
 In reverse chronological order and stratified by division, here is the list of released problems:
 * [Triples of Cows, Platinum, US Open 2023](http://www.usaco.org/index.php?page=viewproblem2&cpid=1334): tree dynamic programming with disjoint set union data structure and coloring argument, ft. Benjamin Qi
 * [Tree Merging, Gold, US Open 2023](http://usaco.org/index.php?page=viewproblem2&cpid=1331): tree dynamic programming with tree merging
