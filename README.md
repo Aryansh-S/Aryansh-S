@@ -8,6 +8,7 @@
 * [GitBook](https://aryansh.gitbook.io/)
 * [Unofficial USACO Syllabus](https://www.overleaf.com/read/fktckfprxyxn) (actively maintained based on problem trends)
 * [The Art of Modular Arithmetic](https://www.amazon.com/Art-Modular-Arithmetic-Aryansh-Shrivastava-ebook/dp/B09DF7MTWB) (available for free [here](https://aryansh-s.github.io/The_Art_of_Modular_Arithmetic.pdf))
+* [RAIL @ Berkeley AI Research](https://rail.eecs.berkeley.edu/)
 
 ### Authoring USACO Problems
 In reverse chronological order and stratified by division, here is the list of released problems:
