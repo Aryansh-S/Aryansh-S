@@ -13,7 +13,7 @@
 ### Authoring USACO Problems
 In reverse chronological order and stratified by division, here is the list of released problems, not including contributions to training camp selection tests:
 * [Triples of Cows, Platinum, US Open 2023](http://www.usaco.org/index.php?page=viewproblem2&cpid=1334): tree dynamic programming with disjoint set union data structure and coloring argument, ft. Benjamin Qi
-* [Quantum Moochanics. Gold, February 2024](https://usaco.org/index.php?page=viewproblem2&cpid=1403): sweep line algorithm with algebraic and number theoretic observations, ft. Benjamin Qi
+* [Quantum Moochanics, Gold, February 2024](https://usaco.org/index.php?page=viewproblem2&cpid=1403): sweep line algorithm with algebraic and number theoretic observations, ft. Benjamin Qi
 * [Tree Merging, Gold, US Open 2023](http://usaco.org/index.php?page=viewproblem2&cpid=1331): tree dynamic programming with tree merging
 * [Barn Tree, Silver, December 2022](http://usaco.org/index.php?page=viewproblem2&cpid=1254): constructive tree depth-first search with memoization, serving as a bridge to tree dynamic programming in higher divisions
 * [Air Cownditioning II, Bronze, January 2023](http://usaco.org/index.php?page=viewproblem2&cpid=1276): subset generation via recursion/bitmasking and array min/max updates
