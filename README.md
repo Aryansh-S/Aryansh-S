@@ -16,6 +16,6 @@ In reverse chronological order and stratified by division, here is the list of r
 * [Quantum Moochanics, Gold, February 2024](https://usaco.org/index.php?page=viewproblem2&cpid=1403): sweep line algorithm with algebraic and number theoretic observations, ft. Benjamin Qi
 * [Tree Merging, Gold, US Open 2023](http://usaco.org/index.php?page=viewproblem2&cpid=1331): tree dynamic programming with tree merging
 * [Barn Tree, Silver, December 2022](http://usaco.org/index.php?page=viewproblem2&cpid=1254): constructive tree depth-first search with memoization, serving as a bridge to tree dynamic programming in higher divisions
-* [Air Cownditioning II, Bronze, January 2023](http://usaco.org/index.php?page=viewproblem2&cpid=1276): subset generation via recursion/bitmasking and array min/max updates
-* [Moo Operations, Bronze, January 2023](http://usaco.org/index.php?page=viewproblem2&cpid=1277): reverse engineering minimum solution with string processing
+* [Air Cownditioning II, Bronze, January 2023](http://usaco.org/index.php?page=viewproblem2&cpid=1276): subset generation via recursion/bitmasking and array min/max updates, ft. Eric Hsu
+* [Moo Operations, Bronze, January 2023](http://usaco.org/index.php?page=viewproblem2&cpid=1277): reverse engineering minimum solution with string processing 
 * [Photoshoot, Bronze, US Open 2022](http://usaco.org/index.php?page=viewproblem2&cpid=1227): challenging ad hoc minimization with greedy string processing
